@@ -2,6 +2,8 @@
 
 This repository contains the code for the VR Medical Training Tool project, which is a part of the CSC4996 Computer Science Capstone course at Wayne State University
 
+![screenshot](Documents/small%20info.jpg)
+
 ## Requirements
 
 For running project you will need Unity Editor 2021.3.17f1 or higher
